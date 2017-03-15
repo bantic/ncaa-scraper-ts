@@ -1,0 +1,8 @@
+node_modules/
+sheets-auth-creds.json
+cached_requests/
+src/**/*.js
+src/**/*.js.map
+index.js
+index.js.map
+.vscode/
